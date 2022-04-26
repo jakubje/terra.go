@@ -2,7 +2,7 @@ module github.com/jakubje/terra-go
 
 replace (
 	github.com/CosmWasm/go-cosmwasm => github.com/terra-money/wasmvm v0.10.3
-	github.com/cosmos/cosmos-sdk => github.com/cosmos/cosmos-sdk v0.39.2
+	github.com/cosmos/cosmos-sdk => github.com/cosmos/cosmos-sdk v0.45.4
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	github.com/tendermint/tendermint => github.com/tendermint/tendermint v0.33.9
 )
