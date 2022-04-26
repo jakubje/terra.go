@@ -12,6 +12,7 @@ go 1.15
 require (
 	github.com/airbloc/logger v1.4.5
 	github.com/aws/aws-sdk-go v1.37.25
+	github.com/gogo/protobuf v1.3.2
 	github.com/cosmos/cosmos-sdk v0.45.4
 	github.com/ethereum/go-ethereum v1.10.1
 	github.com/pkg/errors v0.9.1
