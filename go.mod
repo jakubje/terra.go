@@ -1,4 +1,4 @@
-module github.com/jakubje/terra-go
+module github.com/jakubje/terra.go
 
 replace (
 	github.com/CosmWasm/go-cosmwasm => github.com/terra-money/wasmvm v0.10.3
