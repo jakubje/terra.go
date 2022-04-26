@@ -18,6 +18,6 @@ require (
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/stretchr/testify v1.7.0
 	github.com/tendermint/tendermint v0.33.9
-	github.com/terra-project/core v0.4.2
+	github.com/terra-money/core v0.4.2
 	github.com/tj/assert v0.0.3
 )
